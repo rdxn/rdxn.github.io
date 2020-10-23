@@ -1,6 +1,6 @@
 ## Welcome to this page
 
-So, markdown. A good thing. 
+So, markdown. A good thing. (Modified this on the iPad; need to pay to commit in WorkingCopy. Will get back to that.) Now modifying on the Chromebook. Trying to make sure it will work out. 
 
 OK, circling back here. Adding the Next Steps from the [instructions](https://guides.github.com/features/pages/) that resulted in this page. 
 
@@ -16,6 +16,8 @@ TODO: you really need red squiggles.
 TODO: is there a geopol checker? 
 
 TODO: where should TODO's really go?
+
+TODO: how about a custom domain?
 
 ### Write the damn thing
 You can use the [editor on GitHub](https://github.com/rdxn/rdxn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
