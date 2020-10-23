@@ -17,7 +17,7 @@ TODO: is there a geopol checker?
 
 TODO: where should TODO's really go?
 
-TODO: how about a custom domain?
+TODO: how about a custom domain? https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
 
 ### Write the damn thing
 You can use the [editor on GitHub](https://github.com/rdxn/rdxn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
