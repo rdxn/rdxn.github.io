@@ -2,6 +2,9 @@
 
 So, markdown. A good thing. (Modified this on the iPad; need to pay to commit in WorkingCopy. Will get back to that.) Now modifying on the Chromebook. Trying to make sure it will work out. 
 
+Warning: GitHub Pages sites are publicly available on the internet, even if the repository for the site is private or internal. If you have sensitive data in your site's repository, you may want to remove it before publishing. For more information, see "About repository visibility." https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repository-visibility
+
+
 OK, circling back here. Adding the Next Steps from the [instructions](https://guides.github.com/features/pages/) that resulted in this page. 
 
 [GitHub Flow](https://guides.github.com/introduction/flow/)
