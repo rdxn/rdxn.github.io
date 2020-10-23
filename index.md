@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to this page
 
+So, markdown. A good thing. 
+
+### Changing text
 You can use the [editor on GitHub](https://github.com/rdxn/rdxn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Of course you will try out other editors. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+And of course over time you'll be able to come back here and see the changes in the text over time. Hi future Dean!
+
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Syntax. A good thing. There are convetions for... well, lots. Not clear to you what ``` does just yet, but it will make sense. 
 
 ```markdown
 Syntax highlighted code block
